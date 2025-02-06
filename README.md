@@ -1,5 +1,6 @@
 # vue_ecomm
-this e-commerce project is not finished yet and needs some style and functionality. I will update the project ```
+this e-commerce project is not finished yet and needs some style and functionality. I will update the project 
+```
 in this project, using Axios,json-server, Bootstrap, and vue-router. will use Vuex in the update  
 ## Project setup
 ```
