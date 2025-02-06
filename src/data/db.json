@@ -1,0 +1,342 @@
+{
+  "users": [
+    {
+      "id": "f8ca",
+      "name": "wdwd",
+      "email": "ewewewe@gmail.com",
+      "password": "wdwd"
+    },
+    {
+      "id": "8b01",
+      "name": "eded",
+      "email": "eslam@gmail.com",
+      "password": "efef"
+    },
+    {
+      "id": "7515",
+      "name": "efef",
+      "email": "ewewewe@gmail.com",
+      "password": "wdwd"
+    },
+    {
+      "id": "e3cf",
+      "name": "wsws",
+      "email": "eslam@saed",
+      "password": "wdwd"
+    },
+    {
+      "id": "f888",
+      "name": "wdwd",
+      "email": "ewewewe@gmail.com",
+      "password": "wdwd"
+    },
+    {
+      "id": "7696",
+      "name": "wdwd",
+      "email": "ewewewe@gmail.com",
+      "password": "wd"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123123"
+    }
+  ],
+  "sections": [
+    {
+      "id": "1",
+      "secName": "best"
+    },
+    {
+      "id": "1",
+      "secName": "new"
+    }
+  ],
+  "categoryies": [
+    {
+      "id": "2b39",
+      "category_name": "phones"
+    },
+    {
+      "id": "cbd6",
+      "category_name": "headphone"
+    },
+    {
+      "id": "2573",
+      "category_name": "pantes"
+    },
+    {
+      "id": "06f3",
+      "category_name": "t-shirts"
+    },
+    {
+      "id": "99db",
+      "category_name": "shoses"
+    }
+  ],
+  "products": [
+    {
+      "productName": "product_2",
+      "productPrice": "20",
+      "productImage": "hedphone_2.jpeg",
+      "productDescription": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+      "category_name": "headphone",
+      "inSale": "false",
+      "sectionsName": "best",
+      "priceInSale": "",
+      "id": "8961"
+    },
+    {
+      "id": "e3a5",
+      "productName": "product_5",
+      "productPrice": 200,
+      "productImage": "hedphone_2.jpeg",
+      "productDescription": "lorem",
+      "category_id": "cbd6",
+      "category_name": "headphone",
+      "sectionsName": "best"
+    },
+    {
+      "id": "5473",
+      "productName": "product_6",
+      "productPrice": 200,
+      "productImage": "p1.jpeg",
+      "productDescription": "lorem",
+      "category_id": "2573",
+      "category_name": "pantes"
+    },
+    {
+      "id": "9c00",
+      "productName": "product_7",
+      "productPrice": 200,
+      "productImage": "p2.jpeg",
+      "productDescription": "lorem",
+      "category_id": "2573",
+      "category_name": "pantes"
+    },
+    {
+      "id": "6352",
+      "productName": "product_4",
+      "productPrice": 200,
+      "productImage": "hedphone_1.jpeg",
+      "productDescription": "lorem",
+      "category_name": "headphone",
+      "sectionsName": "best"
+    },
+    {
+      "id": "7e71",
+      "productName": "wfwf",
+      "productPrice": "23",
+      "productImage": "hedphone_2.jpeg",
+      "productDescription": "wdwdwd",
+      "category_name": "headphone"
+    },
+    {
+      "id": "3b9c",
+      "productName": "wdwd",
+      "productPrice": "234",
+      "productImage": "t1.jpeg",
+      "productDescription": "sdwd",
+      "category_name": "t-shirts",
+      "sectionsName": "best"
+    },
+    {
+      "productName": "eslam",
+      "productPrice": "3434",
+      "productImage": "hedphone_2.jpeg",
+      "productDescription": "ededd",
+      "category_name": "headphone",
+      "id": "ec01",
+      "sectionsName": "new"
+    },
+    {
+      "productName": "product__4",
+      "productPrice": 200,
+      "productImage": "hedphone_1.jpeg",
+      "productDescription": "lorem",
+      "category_name": "headphone",
+      "id": "e8a2",
+      "sectionsName": "new"
+    },
+    {
+      "productName": "product_5",
+      "productPrice": 200,
+      "productImage": "hedphone_2.jpeg",
+      "productDescription": "lorem",
+      "category_name": "headphone",
+      "inSale": "yes",
+      "sectionsName": "new",
+      "priceInSale": "23",
+      "id": "a0c2"
+    },
+    {
+      "productName": "product_10",
+      "productPrice": "76",
+      "productImage": "p3.jpeg",
+      "productDescription": "this product is the best ",
+      "category_name": "pantes",
+      "inSale": "yes",
+      "sectionsName": "best",
+      "priceInSale": "21",
+      "id": "d183"
+    },
+    {
+      "id": "a55c",
+      "productName": "wdwd",
+      "productPrice": "1212",
+      "productImage": "hedphone_1.jpeg",
+      "productDescription": "wewe",
+      "category_name": "headphone"
+    },
+    {
+      "productName": "product_10",
+      "productPrice": "100",
+      "productImage": "iphone.jpeg",
+      "productDescription": "this product",
+      "category_name": "phones",
+      "inSale": "yes",
+      "sectionsName": "best",
+      "priceInSale": "10",
+      "id": "0631"
+    },
+    {
+      "id": "0330",
+      "productName": "dwd",
+      "productPrice": "32",
+      "productImage": "hedphone_2.jpeg",
+      "productDescription": "dwd",
+      "category_name": "headphone"
+    },
+    {
+      "id": "9aed",
+      "productName": "wdwd",
+      "productPrice": "23",
+      "productImage": "p1.jpeg",
+      "productDescription": "wdwdwd",
+      "category_name": "pantes"
+    },
+    {
+      "id": "3444",
+      "productName": "dwd",
+      "productPrice": "232",
+      "productImage": "iphone.jpeg",
+      "productDescription": "wdwd",
+      "category_name": "phones"
+    },
+    {
+      "productName": "wdwd",
+      "productPrice": "323",
+      "productImage": "hedphone_1.jpeg",
+      "productDescription": "ddwd",
+      "category_name": "headphone",
+      "inSale": "no",
+      "sectionsName": "",
+      "priceInSale": "12",
+      "id": "3282"
+    },
+    {
+      "id": "e40f",
+      "productName": "efef",
+      "productPrice": "23",
+      "productImage": "p1.jpeg",
+      "sectionsName": "best",
+      "productDescription": "efef",
+      "category_name": "pantes"
+    },
+    {
+      "productName": "the new",
+      "productPrice": "43",
+      "productImage": "iphone_2.jpeg",
+      "productDescription": "neeeeeeew",
+      "category_name": "phones",
+      "inSale": "yes",
+      "sectionsName": "new",
+      "priceInSale": "12",
+      "id": "2ff1"
+    },
+    {
+      "id": "a4e9",
+      "productName": "new_product",
+      "productPrice": "1000",
+      "productImage": "s1.jpeg",
+      "sectionsName": "new",
+      "productDescription": "this new",
+      "category_name": "shoses"
+    },
+    {
+      "productName": "eslam saed",
+      "productPrice": "20",
+      "productImage": "phone.jpeg",
+      "productDescription": "this is eslam",
+      "category_name": "phones",
+      "inSale": "no",
+      "sectionsName": "best",
+      "priceInSale": "",
+      "id": "507e"
+    },
+    {
+      "productName": "wswsws",
+      "productPrice": "1221",
+      "productImage": "phone.jpeg",
+      "productDescription": "wsw",
+      "category_name": "phones",
+      "inSale": "no",
+      "sectionsName": "new",
+      "priceInSale": "12",
+      "id": "0f5e"
+    },
+    {
+      "productName": "new and in sale",
+      "productPrice": "102",
+      "productImage": "hedphone_2.jpeg",
+      "productDescription": "this is new and in sale",
+      "category_name": "headphone",
+      "inSale": "no",
+      "sectionsName": "new",
+      "priceInSale": "",
+      "id": "2f42"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "orderedBy": "eslam",
+      "orderemail": "eslamsaed@gmail.com",
+      "products": "products",
+      "status": "instoke"
+    },
+    {
+      "id": "2",
+      "orderedBy": "ahmed",
+      "orderemail": "ahmedsaed@gmail.com",
+      "products": "products",
+      "status": "complete"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "eslam",
+      "phonenum": "576558589",
+      "useremail": "eslamsaed@gmail.com",
+      "masseg": "jkglugjkhihiohiohiohiohoihoihoihiohihiohiohiohiohihihiohihoih"
+    },
+    {
+      "id": "dcc5",
+      "name": "ahmed",
+      "phonenum": "5867858589",
+      "useremail": "ahmedsaed@gmail.com",
+      "masseg": "jkglugjkhihiohiohiohiohoihoihoihiohihiohiohiohio"
+    },
+    {
+      "id": "dcc5",
+      "name": "ahmed",
+      "phonenum": "5867858589",
+      "useremail": "ahmedsaed@gmail.com",
+      "masseg": "jkglugjkhihiohiohiohiohoihoihoihiohihiohiohiohio"
+    }
+  ]
+}

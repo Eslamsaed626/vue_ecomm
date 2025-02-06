@@ -1,10 +1,23 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  <!-- <navbar-com></navbar-com> -->
+  <!-- <h1>eslam</h1> -->
+  <router-view />
+  <!-- <footer-com></footer-com> -->
 </template>
+
+<script>
+// import NavbarCom from "./components/layout/NavbarCom.vue";
+// import FooterCom from "./components/layout/FooterCom.vue";
+export default {
+  // components: {
+  //   NavbarCom,
+  //   FooterCom,
+  // },
+  // mounted() {
+  //   console.log(this.$router.currentRoute.value);
+  // },
+};
+</script>
 
 <style>
 #app {
@@ -26,5 +39,8 @@ nav a {
 
 nav a.router-link-exact-active {
   color: #42b983;
+}
+.sitepad {
+  padding: 0 15px;
 }
 </style>
