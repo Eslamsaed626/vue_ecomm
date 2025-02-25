@@ -6,6 +6,13 @@
           v-bind:src="require('../../assets/images/' + product.productImage)"
           class="card-img-top"
           alt="..."
+          v-if="product.productImage"
+        />
+        <img
+          class="card-img-top"
+          src="https://placehold.co/400"
+          alt=""
+          v-else
         />
       </router-link>
       <div class="card-body">
@@ -34,14 +41,7 @@
             {{ product.priceInSale }}</span
           >
         </div>
-        <!-- <slot></slot> -->
-        <!-- <div class="btns"> -->
-        <!-- <button class="btn btn-primary" @click="addToCart(product.id)">
-          add to cart
-        </button>
-        <button class="btn btn-success" @click="addToFav(product.id)">
-          add to fave
-        </button> -->
+
         <span v-if="product.inSale == 'yes'" class="insale">sale</span>
         <!-- </div> -->
 
@@ -69,23 +69,18 @@ export default {
   //     this.$emit("addToFav", id);
   //   },
   // },
-  mounted() {
-    // console.log(this.product);
-  },
+  mounted() {},
 };
 </script>
 <style scoped>
 .card-img-top {
   height: 215px;
+  width: 100%;
 }
 .product {
   position: relative;
 }
-/* .btn-success {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-} */
+
 .insale {
   background: #aaa;
   padding: 5px 14px;

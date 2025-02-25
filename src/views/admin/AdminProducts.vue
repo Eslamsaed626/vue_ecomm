@@ -320,7 +320,7 @@ export default {
         let result = axios.post("http://localhost:3000/products", {
           productName: this.productCrete.name,
           productPrice: this.productCrete.price,
-          productImage: "",
+          productImage: this.productImage ? this.productImage : "",
           sectionsName: this.productCrete.sectionsName,
           inSale: this.productCrete.inSale,
           productDescription: this.productCrete.description,
